@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devITSoln
 - 👀 I’m interested in creating a scalable software for your company or a private bunisess
 - 🌱 I’m a software development company
-- 💞️ I’m looking to working with several companies across the globe
+- 💞️ I’m looking forward to working with several companies and individuals across the globe
 - 📫 How to reach me devitsolutionz@gmail.com
 - ....
 
