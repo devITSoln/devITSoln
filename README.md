@@ -3,6 +3,7 @@
 - 🌱 I’m a software development company
 - 💞️ I’m looking to working with several companies across the globe
 - 📫 How to reach me devitsolutionz@gmail.com
+- ....
 
 <!---
 devITSoln/devITSoln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
