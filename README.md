@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devITSoln
 - 👀 I’m interested in creating a scalable software for your company or a private bunisess
 - 🌱 I’m a software development company
-- 💞️ I’m looking to collaborate on several project oh health, and environmental stability 
+- 💞️ I’m looking to collaborate on several project. 
 - 📫 How to reach me devitsolutionz@gmail.com
 
 <!---
